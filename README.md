@@ -1,6 +1,8 @@
 # To-Do List App
 
-This is a simple To-Do List App built using React.js, where users can add, complete, and delete tasks. It also supports setting a due date for each task. The app is responsive and deployed on Vercel.
+This is a simple To-Do List App built using React.js, where users can add, complete, and delete tasks (CRUD Application). It also supports setting a due date for each task. The app is responsive and deployed on Vercel.
+
+[Check Here](https://todolist-app-swart-seven.vercel.app/)
 
 ## Features
 
@@ -28,8 +30,26 @@ Make sure you have the following installed on your system:
 - [Node.js](https://nodejs.org/en/download/)
 - [Git](https://git-scm.com/downloads)
 
-### Clone the repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/todo-list-app.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd todo-list-app
+```
+
+3. Install depedencies
+
+```bash
+npm install
+```
+
+4. Run the app in development mode
+
+```bash
+npm start
 ```
